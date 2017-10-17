@@ -2,12 +2,9 @@
 ## *This is the test README.md file for the second day of the workshop*
 
 
-
-
 My project is the networking for the nuclear physics, high energy physics, and astrophysics area.
 Physicists and astrophysicists are independent in general and they don't cooperate especially when they are creating ideas.
-So that my purpose of the project is to cooporate each other and communicate well for the new idea and theory. Ha! 
-
+So that my purpose of the project is to cooperate each other and communicate well for the new idea and theory. Ha!
 
 
 
